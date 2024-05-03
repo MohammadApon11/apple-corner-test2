@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* utils */
+* {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+}
